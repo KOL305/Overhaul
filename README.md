@@ -2,6 +2,8 @@
 Description:
 - Overhaul is a video game that runs on your browser using P5.js! Using original sprites and soundtrack, manage your fishery as you learn how the fishing industry works and how your choices can make a more sustainable future!
 - 3nd Place Winner for the 6th Annual San Ramon Hackathon (2023)
+- Programming and music composition - KOL305
+- Sprite design - averagetoaster
 
 Pre-requisites:
 - Git Installed
